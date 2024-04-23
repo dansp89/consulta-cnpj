@@ -16,7 +16,7 @@ Exemplos de SQL e resultado de consulta
 
 ## para consultas Individuais
 
-````sql
+```sql
 -- Consulta Individual: By: DanSP89
 SELECT
     jsonb_build_object(
@@ -103,9 +103,10 @@ LEFT JOIN
 WHERE
     estabelecimento.cnpj_basico = '32444586' -- Exemplo de CNPJ BASE para consulta
 LIMIT 1;
-``
+```
 
 ### Resposta da consulta individual
+
 ```json
 {
   "uf": "PR",
@@ -172,4 +173,4 @@ LIMIT 1;
   ],
   "data_situacao_especial": ""
 }
-````
+```
