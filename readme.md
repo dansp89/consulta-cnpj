@@ -4,6 +4,8 @@ Sistema de consulta de CONSULTA de CNPJ, estes dados são todos abertos
 
 > <b>OBS.:</b> Dados abertos para consulta de CNPJ, por favor, consultar o repositório do projeto para implementação.
 
+![Exemplo de resultado](screenshot-2024-04-22-234037.png)
+
 ## Recursos da API
 
 1. Todos os campos são consultáveis
